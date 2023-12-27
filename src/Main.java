@@ -41,6 +41,7 @@ public class Main {
         System.out.printf("Среднее значение зарплат: в отделе № " + departmentNumber +" - %.2f рублей.", getAverageSalaryDepartment(departmentNumber));
 
         System.out.println("  ");
+        System.out.println();
 
 
 
